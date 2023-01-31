@@ -1,5 +1,6 @@
-Lab1 {
-  public static void main(Streing[] args) {
-  System.out.println(“Its wotks”);
+class Hello {
+  public static void main(String[] args) {
+    System.out.println("It works");
+    System.out.println("Hello world");
   }
 }
